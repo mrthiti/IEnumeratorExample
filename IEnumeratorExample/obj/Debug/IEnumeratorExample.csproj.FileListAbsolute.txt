@@ -1,0 +1,6 @@
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\bin\Debug\IEnumeratorExample.exe.config
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\obj\Debug\IEnumeratorExample.csprojResolveAssemblyReference.cache
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\bin\Debug\IEnumeratorExample.exe
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\bin\Debug\IEnumeratorExample.pdb
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\obj\Debug\IEnumeratorExample.exe
+D:\work\workshop\IEnumeratorExample\IEnumeratorExample\obj\Debug\IEnumeratorExample.pdb
